@@ -1,6 +1,9 @@
 # New_Explorer_App_Using_Python_Project#
 
 #Requirement:
+Tkinter, GoogleNews, Threading, Webbrowser, sv_ttk
+
+#Commands to install libraries:
 pip install tkinter
 pip install GoogleNews
 pip install threading
