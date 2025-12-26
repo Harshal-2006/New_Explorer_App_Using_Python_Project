@@ -6,5 +6,5 @@ pip install tkinter
 pip install GoogleNews
 pip install threading
 pip install webbrowser
-pip install sv_ttk
+pip install sv_ttk    
 
