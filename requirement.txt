@@ -3,7 +3,7 @@ Tkinter, GoogleNews, Threading, Webbrowser, sv_ttk
 
 #Commands to install libraries:
 pip install tkinter
-pip install GoogleNews
+pip install GoogleNews   
 pip install threading
 pip install webbrowser
 pip install sv_ttk    
